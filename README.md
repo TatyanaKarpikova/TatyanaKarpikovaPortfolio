@@ -61,7 +61,7 @@ Goals<br>
    •	Testing: Test Automation Frameworks: Test Automation Framework Design;<br>
    •	UXD: Design Tools: Adobe InDesign, Adobe Photoshop, Corel Draw;<br>
    •	UXD: UX Design: Responsive Web Design, Scenarios Creation, User Stories Creation.<br><br>
- <b> EPAM Automated testing Mentoring Program <br><br>
+ <b> EPAM Automated testing Mentoring Program</b> <br><br>
    •	Able to evaluate profit from automation (ROI);<br> 
    • Have an understanding what approaches, tools are used for automation on the project;<br> 
    • Run autotests on the specific environment, able to analyze results by logs from runs;<br> 
@@ -92,7 +92,7 @@ Also I like to study.<br><br>
 [Up](#stages)
 
 ##  <a name="5"></a> Links
-[FancyCalc repo] (https://github.com/TatyanaKarpikova/FancyCalc)<br>
+[FancyCalc](https://github.com/TatyanaKarpikova/FancyCalc)<br>
 PadawansTask1: <href>https://github.com/TatyanaKarpikova/PadawansTask1</href><br>
 PadawansTask2: <href>https://github.com/TatyanaKarpikova/PadawansTask2</href><br>
 PadawansTask3: <href>https://github.com/TatyanaKarpikova/PadawansTask3</href><br>
