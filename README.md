@@ -1,4 +1,4 @@
-# Tatyana Karpikova Portfolio
+# Tatyana Karpikova
 
 **Senior Software Testing Engineer, EPAM Systems, Belarus, Minsk**
 
