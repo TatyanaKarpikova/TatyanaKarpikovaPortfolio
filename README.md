@@ -92,7 +92,7 @@ Also I like to study.<br><br>
 [Up](#stages)
 
 ##  <a name="5"></a> Links
-FancyCalc repo: <href>https://github.com/TatyanaKarpikova/FancyCalc</href><br>
+[FancyCalc repo] (https://github.com/TatyanaKarpikova/FancyCalc)<br>
 PadawansTask1: <href>https://github.com/TatyanaKarpikova/PadawansTask1</href><br>
 PadawansTask2: <href>https://github.com/TatyanaKarpikova/PadawansTask2</href><br>
 PadawansTask3: <href>https://github.com/TatyanaKarpikova/PadawansTask3</href><br>
