@@ -93,11 +93,11 @@ Also I like to study.<br><br>
 
 ##  <a name="5"></a> Links
 [FancyCalc](https://github.com/TatyanaKarpikova/FancyCalc)<br>
-PadawansTask1: <href>https://github.com/TatyanaKarpikova/PadawansTask1</href><br>
-PadawansTask2: <href>https://github.com/TatyanaKarpikova/PadawansTask2</href><br>
-PadawansTask3: <href>https://github.com/TatyanaKarpikova/PadawansTask3</href><br>
-PadawansTask4: <href>https://github.com/TatyanaKarpikova/PadawansTask4</href><br>
-PadawansTask5: <href>https://github.com/TatyanaKarpikova/PadawansTask5</href><br>
+[PadawansTask1](https://github.com/TatyanaKarpikova/PadawansTask1)<br>
+[PadawansTask2](https://github.com/TatyanaKarpikova/PadawansTask2)<br>
+[PadawansTask3](https://github.com/TatyanaKarpikova/PadawansTask3)<br>
+[PadawansTask4](https://github.com/TatyanaKarpikova/PadawansTask4)<br>
+[PadawansTask5](https://github.com/TatyanaKarpikova/PadawansTask5)<br>
 
       
 [Up](#stages)
