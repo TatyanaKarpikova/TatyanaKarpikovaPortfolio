@@ -39,15 +39,12 @@ Goals<br>
    •	General: Management: Resource Management;<br>
    •	MediaEntertainment Technology Areas: AN: Google Analytics;<br>
    •	Microsoft Technologies: Programming Languages: C#;<br>
-   •	Microsoft Technologies: Reporting Systems: MS Access;<br>
    •	Microsoft Technologies: Integrated Development Environments: MS Visual Studio;<br>
-   •	Microsoft Technologies: RDBMS: Microsoft SQL Server;<br>
    •	Microsoft Technologies: Modeling Tools: Visual Studio/TFS;<br>
    •	Miscellaneous Software Engineering Tools and Methods: Virtualization Tools: Oracle VirtualBox;<br>
    •	Software Configuration Management: Version Control Systems: Git, GitHub;<br>
    •	Software Configuration Management: Building Tools: Jenkins;<br>
    •	Software Construction: Android: Android SDK;<br>
-   •	Software Construction: Construction Languages: C++;<br>
    •	Software Construction: SQL Databases: MySQL;<br>
    •	Software Construction: Integrated Development Environments: Xcode;<br>
    •	Software Engineering Management: Project Management/Defect Tracking Systems: HP ALM, JIRA, Microsoft TFS;<br>
@@ -64,7 +61,7 @@ Goals<br>
    •	Testing: Test Automation Frameworks: Test Automation Framework Design;<br>
    •	UXD: Design Tools: Adobe InDesign, Adobe Photoshop, Corel Draw;<br>
    •	UXD: UX Design: Responsive Web Design, Scenarios Creation, User Stories Creation.<br><br>
- ### <a name="content3"></a> EPAM Automated testing Mentoring Program 
+ <b> EPAM Automated testing Mentoring Program <br><br>
    •	Able to evaluate profit from automation (ROI);<br> 
    • Have an understanding what approaches, tools are used for automation on the project;<br> 
    • Run autotests on the specific environment, able to analyze results by logs from runs;<br> 
@@ -95,12 +92,12 @@ Also I like to study.<br><br>
 [Up](#stages)
 
 ##  <a name="5"></a> Links
-FancyCalc repo: https://github.com/TatyanaKarpikova/FancyCalc<br>
-PadawansTask1: https://github.com/TatyanaKarpikova/PadawansTask1<br>
-PadawansTask2: https://github.com/TatyanaKarpikova/PadawansTask2<br>
-PadawansTask3: https://github.com/TatyanaKarpikova/PadawansTask3<br>
-PadawansTask4: https://github.com/TatyanaKarpikova/PadawansTask4<br>
-PadawansTask5: https://github.com/TatyanaKarpikova/PadawansTask5<br>
+FancyCalc repo: <href>https://github.com/TatyanaKarpikova/FancyCalc</href><br>
+PadawansTask1: <href>https://github.com/TatyanaKarpikova/PadawansTask1</href><br>
+PadawansTask2: <href>https://github.com/TatyanaKarpikova/PadawansTask2</href><br>
+PadawansTask3: <href>https://github.com/TatyanaKarpikova/PadawansTask3</href><br>
+PadawansTask4: <href>https://github.com/TatyanaKarpikova/PadawansTask4</href><br>
+PadawansTask5: <href>https://github.com/TatyanaKarpikova/PadawansTask5</href><br>
 
       
 [Up](#stages)
