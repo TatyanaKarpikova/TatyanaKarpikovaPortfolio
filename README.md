@@ -1,255 +1,106 @@
-# РАЗРАБОТКА СОВРЕМЕННЫХ ВЕБ-ПРИЛОЖЕНИЙ С ПОМОЩЬЮ ASP.NET И MICROSOFT AZURE
+# Tatyana Karpikova Portfolio
 
-**Тренинг РАЗРАБОТКА СОВРЕМЕННЫХ ВЕБ-ПРИЛОЖЕНИЙ С ПОМОЩЬЮ ASP.NET И MICROSOFT AZURE это прекрасная возможность изучить, углубить и систематизировать знания языка C#, а также основ платформы .NET Framework, которые используются при профессиональном проектировании и разработке программного обеспечения.**
+**Senior Software Testing Engineer, EPAM Systems, Belarus, Minsk**
 
-*По окончании тренинга Вы будете уметь*
- - *проектировать и разрабатывать web-системы с использованием технологий ASP.NET MVC и Microsoft Azure Cloud*
- -	*создавать приложения на языке программирования C#*
- -	*строить архитектуру разрабатываемого приложения и разрабатывать код в соответствие с принципами ООП и SOLID*
- -	*пользоваться средой разработки MS Visual Studio, а также дополнительным инструментарием для эффективного создания веб-приложений*
- -	*настраивать взаимодействие Web-приложений с источниками данных (MS SQL)*
- 
 
-**Успешно освоившим программу всего тренинга будет предоставлена возможность начать карьеру в компании EPAM или продолжить обучение в EPAM .NET Lab.**
-
-### <a name="stages"></a> Гибкая трехступенчатая программа и гибридный формат позволят планировать свой процесс обучения
- + [Online Stage](#1) 
-   - [content](#content1)
- + [Offline Stage](#2)  
-   - [content](#content2) 
- + [.NET Lab Stage](#3)  
-   - [content](#content3) 
+### <a name="stages"></a> 
+ + [Summary](#1) 
+ + [Skills and Awards](#2)  
+ + [Education](#3) 
+ + [Interests](#4)
+ + [Links](#5)
  
 [Up](#stages)
 
-## <a name="1"></a> Online stage (внешний)
- - возможность обучения для каждого, независимо от возраста, профессиональной занятости и места жительства;
- - продолжительность 1 - 1.5  месяца;
- - индивидуальная программа изучения и менторинг [grow.by Программа вводного занятия](https://grow.by/invite/AddTemplate/3244?mentorId=2012);
- - online Q&A sessions - 1 раз в неделю (возможность просмотреть видеозапись);
-### <a name="content1"></a> Content 
-   - Visual Studio. [Visual Studio IDE documentation](https://docs.microsoft.com/en-us/visualstudio/ide/?view=vs-2017)
-      - Project types in VS. 
-   - Anatomy of a Simple Program. 
-      - Adding a Project to an Existing Solution. 
-      - Referencing One Project from Another. 
-      - Namespaces. 
-      - Program Entry Point.
-   - A version control system git
-   - Basic Coding in C#
-      - Local Variables. Scope
-      - Statements and Expressions
-      - Comments and Whitespace
-      - [XML-comments. Сreating XML documentation.](https://docs.microsoft.com/ru-ru/dotnet/csharp/codedoc) Sandcastle.
-      - Intrinsic Data Types. Numeric Types. Numeric conversions. Booleans. Strings and Characters (preview). Object (preview).
-      - Basic operators. 
-   - Methods in details
-      - Declaration and call methods.
-      - Naming conventions.
-      - Overload Resolution.
-      - Optional parameters and named arguments.
-      - Passing arguments by value and by reference (ref, out, in). Static methods, static constructors.
-      - Extension methods. Operator Overloading. 
-   - C# Unit Testing
-      - Unit testing intro.
-      - C# Unit Test Best Practices and Guidelines.
-      - MS Unit Testing Framework.
-      - NUnit Framework. 
+## <a name="1"></a> Summary
+5+ years Software Testing, Excellence in Agile, Scrum. Experienced in designing Test Scenarios/Cases, Requirements analysis, Test Result Reports, Bug Reporting. Excellent interpersonal, organizational, coordination and communications.<br>
+   •	Have production experience in practising Agile (SCRUM) methodology. <br>
+   •	Performed functional, installation, regression, localization, configuration, GUI, Backend/frontend/integration and other types of testing.<br>
+   •	Possess an analytical mind, is excellent in exploring and troubleshooting of new systems, a quick learner.<br>
+   •	Responsible and self-managed.<br><br>
+
+Tech skills<br>
+Work with win/lin virtual machines, work with web-services with deep logic, tracking logs, investigation issues, mobile (Android/ iOS)<br><br>
+
+Testing skills<br>
+Perform functional/regression testing, prepare/update/execution test cases, mobile/web testing, track defects, requirements analysis, bug reporting, functional/regression/new feature testing, test analysis and reporting, QA Team work coordination, QA metrics and reports.<br><br>
+
+Goals<br>
+   •	Improving tech skills in programming.<br>
+   •	Opportunities to start exectute test automation tasks on the project.<br><br>
+ 
 
 [Up](#stages)
 
-##  <a name="2"></a> Offline stage (внешний)
- - зачисление по результатам Online stage и оnline теста;
- - продолжительность 2 месяцa;
- - периодичность и место проведения занятий - 2-3 раза в неделю по 4-5 академических часа по будням в учебных классах .NET Lab (ул. Купревича, 1/5) и совместной лаборатории БГУИР-EPAM (4-ый корпус БГУИР, ул. Гикало, 9);
- - материалы в открытом доступе на [GitHub](https://github.com/EPM-RD-NETLAB).
- ### <a name="content2"></a> Content 
-   - Creating types in C# 
-      - Value and Reference Types.
-      - Classes vs Struct. 
-      - Boxing and Unboxing. 
-      - Naming conventions.
-      - Static and instance class.
-      - Type members - Fields, Constructors, Methods (Property, Indexers, Operators , Event - preview), Nested types. Enum. 
-   - Encapsulation. Inheritance. Polymorphism  
-      - Encapsulation. Access modifiers. Properties. Automatic properties. Indexers.
-      - Inheritance.
-      - Sealed Methods and Classes.
-      - Special Base Types - System.ValueType, System.Enum. Virtual methods.
-      - System. Object (Equals, GetHashCode, ToString and etc). Abstract methods.
-      - Abstruct classes.
-      - Interface Inheritance.
-      - Dynamic.
-      - Single dispatch and multiple dispatch.  
-   - Framework Fundamentals 
-      - String and Text Handling (String, StringBuilder).
-      - Formatting and Parsing.
-      - Dates and Times.
-      - Equality Comparison - Standard Equality Protocols. Order Comparison.
-      - IComparable versus Equals. 
-   - Exception Handling. Logging. NLog 
-      - Exception Sources. Exceptions from APIs, your code.
-      - Handling exceptions and catch blocks.
-      - Nested try blocks.
-      - Finally blocks.
-      - Throwing exceptions, rethrowing exceptions.
-      - Exception types, custom exceptions and unhandled exceptions.
-      - Logging and NLog .Net Framework.
-      - Configuration (multiple targets, logger-specific routing). 
-   - Generics and Collections
-      - Generic types.
-      - Type constraints: reference type, value type, new(), type inference and etc.
-      - Enumeration: IEnumerable, IEnumerator, IEnumerable<T> and IEnumerator<T>.
-      - IEqualityComparer and EqualityComparer.
-      - IStructuralEquatable and IStructuralComparable .
-      - ICollection, IList and IDictionary<TKey,TValue> Interfaces.
-      - Lists, Queues, Stacks, Sets and Dictionaries.
-      - Customizable Collections and Proxies. 
-   - Delegates. Lambdas and Events
-      - Delegate types.
-      - Creating a delegate.
-      - Multicast delegates.
-      - Invoking a delegate.
-      - Common delegate types.
-      - Inline methods (anonymous function and lambda expression).
-      - Delegates versus interfaces.
-      - Captured variables.
-      - Lambdas and expression trees.
-      - Events. Standard event delegate pattern. Custom add and remove methods.
-      - Events versus delegates. 
-   - Introduction to Language Integrated Query (LINQ) 
-      - LINQ-to-objects queries: Fluent Syntax and Query Operators.
-      - Lambda expressions and Func signatures. Query Expressions. 
-      - Supporting Query Expressions. Deferred Evaluation. LINQ, Generics, and IQueryable<T>.
-      - Standard LINQ Operators: Filtering, Select, SelectMany, Ordering, Specific Items and Subranges. Set Operations. Joins.
-      - Local Queries. 
-      - Interpreted Queries (IQueryable preview). Combining Interpreted and Local Queries. 
-   - Internal device types in .NET Framework. Resource management 
-      - .NET Framework Internals. WinDbg tool.
-      - Garbage Collection. Optimization techniques.
-      - Events and the Garbage Collector.
-      - Weak References and Events.
-      - Garbage Collection and Memory Consumption.
-      - Finalizers.
-      - IDisposable, Dispose, and Close. Рattern Dispose.
-   - Streams and I/O
-      - Stream Architecture.
-      - Using Streams.
-      - Stream Adapters, Stream Decorators.
-      - File and Directory Operations. 
-   - XML Technologies 
-      - XML intro.э
-      - Architectural Overview. 
-      - X-DOM Overview.
-      - The LINQ to XML DOM. Instantiating an X-DOM. 
-      - Navigating and Querying. Updating an X-DOM. 
-      - Documents and Declarations.
-      - Projecting into an X-DOM. 
-      - XmlReader. XmlWriter. 
-      - Patterns for Using XmlReader/XmlWriter.
-      - XSD and Schema Validation. XSLTXSD, XSLT, XPath. 
-   - Serialization
-      - Serialization Concepts.
-      - Serialization mechanisms in the .NET Framework. Formatters.
-      - The Data Contract Serializer.
-      - The Binary Serializer.
-      - XML Serialization. 
-    - Object Oriented Design Principles
-      - Principles of software development.
-      - SOLID principles. 
+##  <a name="2"></a> Skills and Awards
+   •	Agile: Software Development Methodologies: KANBAN, SCRUM, SCRUMBAN;<br>
+   •	Agile: Continuous Integration: git-flow;<br>
+   •	Business Analysis: Techniques: Problem Tracking, Root Cause Analysis;<br>
+   •	General: Management: Resource Management;<br>
+   •	MediaEntertainment Technology Areas: AN: Google Analytics;<br>
+   •	Microsoft Technologies: Programming Languages: C#;<br>
+   •	Microsoft Technologies: Reporting Systems: MS Access;<br>
+   •	Microsoft Technologies: Integrated Development Environments: MS Visual Studio;<br>
+   •	Microsoft Technologies: RDBMS: Microsoft SQL Server;<br>
+   •	Microsoft Technologies: Modeling Tools: Visual Studio/TFS;<br>
+   •	Miscellaneous Software Engineering Tools and Methods: Virtualization Tools: Oracle VirtualBox;<br>
+   •	Software Configuration Management: Version Control Systems: Git, GitHub;<br>
+   •	Software Configuration Management: Building Tools: Jenkins;<br>
+   •	Software Construction: Android: Android SDK;<br>
+   •	Software Construction: Construction Languages: C++;<br>
+   •	Software Construction: SQL Databases: MySQL;<br>
+   •	Software Construction: Integrated Development Environments: Xcode;<br>
+   •	Software Engineering Management: Project Management/Defect Tracking Systems: HP ALM, JIRA, Microsoft TFS;<br>
+   •	Spoken Languages: English, Russian;<br>
+   •	Technical Writing: Writing Technical Documentation (English);<br>
+   •	Testing: Test Types: Accessibility Testing, Compatibility Testing, Exploratory testing, Functional testing, GUI Testing, Installation Testing, Mobile Testing, Performance Testing;<br>
+   •	Testing: Performance testing: Apache JMeter;<br>
+   •	Testing: Test Levels: Component / Integration Testing;<br>
+   •	Testing: Unit Testing: MSTest, NUnit;<br>
+   •	Testing: Test Management Tools: Microsoft Test Manager;<br>
+   •	Testing: Test Clouds: Perfecto Mobile;<br>
+   •	Testing: Web UI Testing: Selenium, WebdriverIO;<br>
+   •	Testing: API Testing: SoapUI (Open Source);<br>
+   •	Testing: Test Automation Frameworks: Test Automation Framework Design;<br>
+   •	UXD: Design Tools: Adobe InDesign, Adobe Photoshop, Corel Draw;<br>
+   •	UXD: UX Design: Responsive Web Design, Scenarios Creation, User Stories Creation.<br><br>
+ ### <a name="content3"></a> EPAM Automated testing Mentoring Program 
+   •	Able to evaluate profit from automation (ROI);<br> 
+   • Have an understanding what approaches, tools are used for automation on the project;<br> 
+   • Run autotests on the specific environment, able to analyze results by logs from runs;<br> 
+   • Learnt C# basic and performed preselection tasks to be accepted to ATM program;<br> 
+   • Learnt automation within the ATM program: Theoretical aspects and practical experience of Continuous integration with Jenkins, Git; Theory and practical tasks for Unit testing frameworks, Selenium WebDriver and locators, Design Patterns, TA Automation Layers, BDD, Web-services testing, etc.<br><br>
 
 [Up](#stages)
 
-##  <a name="3"></a> .NET Lab Stage
- - зачисление по результатам Offline stage и интервью;
- - продолжительность 1 месяц;
- - статус сотрудника EPAM Systems;
- - стажировка в Production проектах
- - периодичность и место проведения занятий - в соответсвии с индивидуальной программой стажировки (ул. Купревича, 1/5);
- - материалы в открытом доступе на [GitHub](https://github.com/EPM-RD-NETLAB).
- ### <a name="content3"></a> Content 
-   - Threading and Synchronization
-      - Overview and key concepts.
-      - Thread. ThreadPool.
-      - Synchronization Overview.
-      - Exclusive Locking. The lock Statement. Monitor.
-      - Mutexe. Semaphore.
-      - More Advanced Locks.
-      - Reader/Writer Locks.
-      - Signaling with Events Signaling with Event Wait Handles. ManualResetEvent. AutuResetEvent. 
-   - Task Parallelism and Data Parallelism
-      - Pros and Cons of Threads.
-      - The Task Parallel Library.
-      - Task Parallelism.
-      - Data Parallelism. 
-   - Asynchronous Functions in C#
-      - Asynchronous function C # 5.0.
-      - The await Pattern.
-      - Error Handling. 
-   - Attributes
-      - Applying Attributes.
-      - Defining and Consuming Custom Attributes. 
-   - ADO.NET intro
-      - ADO.NET infrastructure.
-      - The Data Provider Model.
-      - Connected approach.
-      - The SqlConnection Object.
-      - The SqlCommand Object.
-      - Reading Data with the SqlDataReader.
-      - Disconnected approach – The DataSet and SqlDataAdapter.
-      - Using Stored Procedures.
-   - ADO.NET EF 
-      - Entity Framework Basics.
-      - Entity Framework Architecture.
-      - Entity Framework development approaches Code First. Model First.
-      - Database First.
-   - The ASP.NET Platform Foundation 
-      - The ASP.NET Life Cycles.
-      - Modules.
-      - Handlers.
-      - Disrupting the Request Life Cycle. 
-   - Overview of MVC Projects
-      - Creating a New ASP.NET MVC Project.
-      - The MVC Pattern.
-      - Working with Visual Studio MVC Projects. 
-   - Controllers and Actions
-      - Simulating the ASP.NET MVC runtime.
-      - The URL routing HTTP module.
-      - Application routes.
-      - Aspects of a controller.
-      - Writing controller classes.
-      - Processing input data.
-      - Producing action results.
-      - Creating the first application.
-   - Views
-      - The mechanics of a view engine.
-      - Definition of the view template.
-      - Basic helpers.
-      - Templated helpers.
-      - Custom helpers, HTML helper and Ajax helper.
-      - Inside the Razor view engine.
-      - Modeling the view.
-      - Advanced features. 
-   - The model-binding architecture 
-      - The input model.
-      - Model binding.
-      - Advanced model binding.
-      - Model validation. 
-   - Ajax 
-      - View on AJAX.
-      - Getting to know JavaScript libraries.
-      - Performing simple HTML replacement.
-      - Using JSON and XML responses. 
-   - The ASP.NET Platform Services
-      - Configuration.
-      - State Data.
-      - Caching Data.
-      - Caching Content.
-      - Security in ASP.NET MVC. 
-   -  Azure Cloud 
-      - Cloud Concepts
-      - Core Cloud Services.
-      - Cloud Web Development
-      - Serverless Architecture
+##  <a name="3"></a> Education
+Name of the Education Establishment: Belarusian State University (retraining)<br>
+Faculty/College: Institute of Advanced Studies and Retraining in Informatization and Management Technologies<br>
+Degree (diploma): Bachelor<br>
+Specialty: Programmer<br><br>
+
+Name of the Education Establishment: Belarussian State Pedagogical University named after Maxim Tank<br>
+Faculty/College: Psychology<br>
+Degree (diploma): Specialist<br>
+Specialty: Psychologist<br><br>
+
+      
+[Up](#stages)
+
+##  <a name="4"></a> Interests
+If I have free time, I try to spend it with my family. We like to travel, watch movies and read books together.<br> 
+Also I like to study.<br><br>
+
+      
+[Up](#stages)
+
+##  <a name="5"></a> Links
+FancyCalc repo: https://github.com/TatyanaKarpikova/FancyCalc<br>
+PadawansTask1: https://github.com/TatyanaKarpikova/PadawansTask1<br>
+PadawansTask2: https://github.com/TatyanaKarpikova/PadawansTask2<br>
+PadawansTask3: https://github.com/TatyanaKarpikova/PadawansTask3<br>
+PadawansTask4: https://github.com/TatyanaKarpikova/PadawansTask4<br>
+PadawansTask5: https://github.com/TatyanaKarpikova/PadawansTask5<br>
+
       
 [Up](#stages)
