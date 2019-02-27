@@ -98,6 +98,8 @@ Also I like to study.<br><br>
 [PadawansTask3](https://github.com/TatyanaKarpikova/PadawansTask3)<br>
 [PadawansTask4](https://github.com/TatyanaKarpikova/PadawansTask4)<br>
 [PadawansTask5](https://github.com/TatyanaKarpikova/PadawansTask5)<br>
+[PadawansTask6](https://github.com/TatyanaKarpikova/PadawansTask6)<br>
+[PadawansTask10](https://github.com/TatyanaKarpikova/PadawansTask10)<br>
 
       
 [Up](#stages)
