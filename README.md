@@ -99,6 +99,7 @@ Also I like to study.<br><br>
 [PadawansTask4](https://github.com/TatyanaKarpikova/PadawansTask4)<br>
 [PadawansTask5](https://github.com/TatyanaKarpikova/PadawansTask5)<br>
 [PadawansTask6](https://github.com/TatyanaKarpikova/PadawansTask6)<br>
+[PadawansTask7](https://github.com/TatyanaKarpikova/PadawansTask7)<br>
 [PadawansTask10](https://github.com/TatyanaKarpikova/PadawansTask10)<br>
 
       
