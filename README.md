@@ -102,6 +102,7 @@ Also I like to study.<br><br>
 [PadawansTask7](https://github.com/TatyanaKarpikova/PadawansTask7)<br>
 [PadawansTask9](https://github.com/TatyanaKarpikova/PadawansTask9)<br>
 [PadawansTask10](https://github.com/TatyanaKarpikova/PadawansTask10)<br>
+[PadawansTask11](https://github.com/TatyanaKarpikova/PadawansTask11)<br>
 
       
 [Up](#stages)
